@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(233, 222, 222);
+}
+
+.gif {
+    height: 200px;
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#topic-buttons {
+    text-align: center;
+    padding: 25px;
+    margin-left: 25px;
+}
+
+#topic-form {
+    text-align: center;
+}
+
+.topic {
+    margin-left: 10px;
+}
+

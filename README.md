@@ -1,1 +1,3 @@
-# Giphy
+# Giphy Sphiphy
+
+https://giphy.com/
